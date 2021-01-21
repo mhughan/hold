@@ -1,6 +1,6 @@
 # stay_sane
 
-Hello. Your call is very important to us. Please stay on the line and we'll connect you with the next available agent..........*Jazz music*.......Hello. Your call is very important to us. Please stay on the line and we'll connect you with the next available agent......*Jazz music*......
+*Hello. Your call is very important to us. Please stay on the line and we'll connect you with the next available agent..........Jazz music.......Hello. Your call is very important to us. Please stay on the line and we'll connect you with the next available agent......Jazz music......*
 
 Being on hold is soul crushing. You can try to multitask, but the soft hum of the music or worse, promotional prose, reverberates through your soul. The anxiety of listening closely enough to not miss the agent joining prevents you from really focusing on anything else.
 
