@@ -1,6 +1,6 @@
 # stay_sane
 
-Hello. All of our agents are busy at this time. Your call is very important to us. Please stay on the line and we'll connect you with the next available agent..........*Jazz music*.......Hello. All of our agents are busy at this time. Your call is very important to us. Please stay on the line and we'll connect you with the next available agent......*Jazz music*......
+Hello. Your call is very important to us. Please stay on the line and we'll connect you with the next available agent..........*Jazz music*.......Hello. Your call is very important to us. Please stay on the line and we'll connect you with the next available agent......*Jazz music*......
 
 We've all been there--stuck on hold with United, wishing we could be anywhere else, doing anything else, but not willing to hang up because we want that full refund instead of travel credit.
 
